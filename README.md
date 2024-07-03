@@ -7,7 +7,7 @@ This repository is a detailed description of the process to create a muon detect
   - Code for an accelerometer
   - Results of the project
   - Common errors along the way and their solutions
-# Hardware
+# Hardware Requirements
   - MP6050 accelerometer
   - SSD1306 OLED Display
   - Microcontroller*
