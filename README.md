@@ -16,4 +16,8 @@ This repository is a detailed description of the process to create a muon detect
   - Cosmic Watch V2 device
   - Soldering iron
 * *In this project we used both an arduino and an ESP32 microcontroller. Both work with Arduino IDE and the code provided, but the Arduino nano does not have the ram required to run both the OLED display and the SD card for the computer display. An Arduino UNO is sufficient to run both, but the ESP32 is cheaper and works just as well.
-
+# Software Requirements
+  - Arduino IDE
+  - Arduino nano*
+  - ESP32*
+* Either of these microcontrollers can be used in the project, but the ESP32 has more processing power and is capable of running the OLED, the Sim Card, and the Accelerometer at the same time unlike the Arduino Nano, which can only run one of the 3.
